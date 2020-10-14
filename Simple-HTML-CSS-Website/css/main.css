@@ -6,7 +6,7 @@ body {
 /*style header*/
 article {text-align: center;}
 
-head,h1 {color: coral;
+head,h1 {color: coral; 
     margin: 1em;
     font-size: 2rem;
     padding-bottom: 83px;
@@ -16,7 +16,7 @@ head,h1 {color: coral;
   background-size: cover;
 background-image: url("../images/banner1.jpg"  );
 }
-/*navigation collor*/
+/* navigation collor*/
 nav {background-color: burlywood;}
 /* allining list with bulletpoints*/
 ul {text-align: left; border: black 1px solid;}
