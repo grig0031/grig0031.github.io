@@ -23,6 +23,7 @@ ul {text-align: left; border: black 1px solid;}
 ol {text-align: left; border: black 3px solid;}
 /* adding shadows for  images*/
 #img {box-shadow: 0px 2px 1px black ;}
-
+/*collor list odd number*/
 article ul :nth-child(1){background-color: salmon;}
+/* head and foot collor*/
 header,footer{color: salmon;}
