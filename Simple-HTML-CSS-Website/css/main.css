@@ -16,7 +16,7 @@ head,h1 {color: coral;
   background-size: cover;
 background-image: url("../images/banner1.jpg"  );
 }
-/* navigation  collor*/
+/* navigation   collor*/
 nav {background-color: burlywood;}
 /* allining list with bulletpoints*/
 ul {text-align: left; border: black 1px solid;}
