@@ -17,7 +17,9 @@ article {text-align: center;}
 background-image: url("../images/banner1.jpg"  );
 }
 /* navigation   collor*/
-nav :hover {background-color: rgb(179, 211, 179);}
+nav {background-color: rgb(179, 211, 179);}
+nav :hover {background-color: salmon;} 
+a {text-decoration: none;}
 /* allining list with bulletpoints*/
 ul {text-align: left; border: black 1px solid;}
 ol {text-align: left; border: black 3px solid;}
@@ -27,3 +29,7 @@ ol {text-align: left; border: black 3px solid;}
 article ul :nth-child(1){background-color: salmon;}
 /* head and foot collor*/
 header,footer{color: salmon;}
+
+/*bulett editing*/
+ul {list-style-type: none;}
+aside ul {list-style-type: square;}
