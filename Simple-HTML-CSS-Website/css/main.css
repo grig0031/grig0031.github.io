@@ -17,7 +17,7 @@ article {text-align: center;}
 background-image: url("../images/banner1.jpg"  );
 }
 /* navigation   collor*/
-nav {background-color: rgb(179, 211, 179);}
+nav :hover {background-color: rgb(179, 211, 179);}
 /* allining list with bulletpoints*/
 ul {text-align: left; border: black 1px solid;}
 ol {text-align: left; border: black 3px solid;}
