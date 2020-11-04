@@ -77,9 +77,9 @@ nav{ text-align: center;
 
 /*contact sheet styling*/
 
- div div input {display: block;width: 99%;  
+  div input {display: block;width: 99%;  
 }
- div div  {padding-top: 3%;}
+  div  {padding-top: 3%;}
 
 div textarea {display: block;width: 99%;}
 
